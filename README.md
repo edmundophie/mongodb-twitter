@@ -39,9 +39,6 @@ List of command available in the application:
 - `timeline <username>`
 - `exit`
 
-## Query Implementation
-*TBD*
-
 ## Team Member
 - Edmund Ophie/ 13512095
 - Kevin/ 13512097
